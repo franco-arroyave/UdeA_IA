@@ -6,13 +6,13 @@
 
 CC. 1007240624 
 
-Ingenieria de Sistemas
+Ingenieria de Sistemas | Modelos y Simulacion de Sistemas I
 
 **Jose Franco Arroyave Cardona** 
 
 CC. 1017209111 
 
-Ingenieria de Sistemas
+Ingenieria de Sistemas | Intro. Inteligencia Artificial
 
 ## Dataset Empleado
 
