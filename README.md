@@ -1,13 +1,19 @@
-# IA UdeA 202302
+# Speed Dating Project
 
-Curso de inteligencias artificial impartida por el docente **RAUL RAMOS POLLAN**, los recursos del curso pueden ser consultados [aquí](https://rramosp.github.io/ai4eng.v1/intro.html)
+## Integrantes del proyecto
 
-## Integrantes del grupo
+**Isaac Esteban Uribe Jaramillo** 
 
-**Isaac Esteban Uribe Jaramillo**
-CC. 1007240624
+CC. 1007240624 
+
 Ingenieria de Sistemas
 
-**Jose Franco Arroyave Cardona**
-CC. 1017209111
+**Jose Franco Arroyave Cardona** 
+
+CC. 1017209111 
+
 Ingenieria de Sistemas
+
+## Dataset Empleado
+
+https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment
