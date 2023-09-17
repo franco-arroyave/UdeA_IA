@@ -8,6 +8,12 @@ CC. 1007240624
 
 Ingenieria de Sistemas
 
+**Jordan Estiven Marulanda Galeano**
+
+CC. 1020486424
+
+Ingeniería Ambiental
+
 **Jose Franco Arroyave Cardona** 
 
 CC. 1017209111 
