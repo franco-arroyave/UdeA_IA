@@ -19,16 +19,16 @@ Ingenieria de Sistemas | Intro. Inteligencia Artificial
 https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment
 
 Entrega 1
-    - PROYECTO_ENTREGA1.pdf
+    * PROYECTO_ENTREGA1.pdf
 
 Entrega 2
-    - PROYECTO_ENTREGA2.pdf
-    - 00 - SpeedDating.ipynb
-    - Video(https://youtu.be/NMM1ZNi3DPA)
+    * PROYECTO_ENTREGA2.pdf
+    * 00 - SpeedDating.ipynb
+    * Video(https://youtu.be/NMM1ZNi3DPA)
 
 Entrega Final
-    - 01 - Limpieza.ipynb
-    - 02 - Preprocesado_modelos.ipynb
-    - PROYECTO_INFORME_FINAL
-    - Video(https://youtu.be/XODXahPmVCw)
+    * 01 - Limpieza.ipynb
+    * 02 - Preprocesado_modelos.ipynb
+    * PROYECTO_INFORME_FINAL
+    * Video(https://youtu.be/XODXahPmVCw)
 
