@@ -23,6 +23,12 @@ Entrega 1
 
 Entrega 2
     - PROYECTO_ENTREGA2.pdf
-    - SpeedDating.ipynb
+    - 00 - SpeedDating.ipynb
     - Video(https://youtu.be/NMM1ZNi3DPA)
+
+Entrega Final
+    - 01 - Limpieza.ipynb
+    - 02 - Preprocesado_modelos.ipynb
+    - PROYECTO_INFORME_FINAL
+    - Video(https://youtu.be/XODXahPmVCw)
 
